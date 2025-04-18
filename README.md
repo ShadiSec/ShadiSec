@@ -31,6 +31,12 @@
 
 ---
 
+## 💻 Coding Projects
+
+> **[Work in Progress]**
+
+---
+
 ## 📜 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/789e4020-4a40-4459-921e-76f46e3bea12/public_url)
