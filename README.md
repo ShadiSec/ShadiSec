@@ -12,7 +12,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonwebservices)
 ![WireGuard](https://img.shields.io/badge/WireGuard-maroon?style=flat&logo=wireguard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-green?style=flat&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
