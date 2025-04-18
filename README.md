@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Shadi! 👋</h1>
 
-<!--
-**ShadiSec/ShadiSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=2600&pause=1000&color=F71E1E&center=true&vCenter=true&width=800&height=200&lines=IT%2C+Networking+%26+Cybersecurity+Enthusiast;Welcome+to+My+Portfolio!" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![WireGuard](https://img.shields.io/badge/WireGuard-maroon?style=flat&logo=wireguard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-green?style=flat&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🌐 Networking Projects
+
+> **[Work in Progress]**
+
+---
+
+## 👨‍💻 Cybersecurity Projects
+
+> **[Work in Progress]**
+
+---
+
+## 📜 Certifications
+
+- [CompTIA Security+](https://www.credly.com/badges/789e4020-4a40-4459-921e-76f46e3bea12/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/3fb3c49e-d4a4-4588-ac4d-db601d9621ad/public_url)
+- [Splunk Core Certified Power User](https://www.credly.com/badges/29c4292a-8984-4e6e-a020-2c3d364297a1/public_url)
+
+---
+
+## 🤳 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shadi-al-refaie-547512267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
