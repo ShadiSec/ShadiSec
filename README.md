@@ -42,6 +42,9 @@
 - [CompTIA Security+](https://www.credly.com/badges/789e4020-4a40-4459-921e-76f46e3bea12/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/3fb3c49e-d4a4-4588-ac4d-db601d9621ad/public_url)
 - [Splunk Core Certified Power User](https://www.credly.com/badges/29c4292a-8984-4e6e-a020-2c3d364297a1/public_url)
+- [MTA: Security Fundamentals](https://www.credly.com/badges/bcc1ca91-fa06-4de7-bea5-27cf0ab72af1/public_url)
+- [MTA: Networking Fundamentals](https://www.credly.com/badges/f6222a0b-251e-4e27-8930-add86f926848/public_url)
+- [MTA: Windows Server Administration Fundamentals](https://www.credly.com/badges/d9bdc644-64f4-485c-aa9b-659480c79660/public_url)
 
 ---
 
