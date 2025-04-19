@@ -22,7 +22,7 @@
 
 ## 🧠 Blog & Technical Notes
 
-> [📚 View all blog posts](https://github.com/ShadiSec/Blog) - This is where I document and reflect on what I'm learning in Networking, Cybersecurity, and IT.
+> [📚 View all blog posts](https://github.com/ShadiSec/Blog/blob/main/README.md) - This is where I document and reflect on what I'm learning in Networking, Cybersecurity, and IT.
 
 ---
 
