@@ -12,10 +12,17 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/-black?logo=amazonwebservices&logoSize=auto)
+![Splunk](https://img.shields.io/badge/-orange?logo=splunk&logoSize=auto)
 ![WireGuard](https://img.shields.io/badge/WireGuard-maroon?style=flat&logo=wireguard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-green?style=flat&logo=wireshark&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+
+---
+
+## 🧠 Blog & Technical Notes
+
+> [📚 View all blog posts](https://github.com/ShadiSec/Blog) - This is where I document and reflect on what I'm learning in Networking, Cybersecurity, and IT.
 
 ---
 
@@ -33,7 +40,7 @@
 
 ## 💻 Coding Projects
 
-> [🗝️ Caesar Cipher](https://github.com/ShadiSec/Mini-Projects/blob/main/caesar-cipher.py)
+> [📦 Mini-Projects](https://github.com/ShadiSec/Mini-Projects/tree/main) - A collection of small scripts I'm building as I continue learning and experimenting.
 
 ---
 
