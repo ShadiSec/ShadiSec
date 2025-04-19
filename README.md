@@ -33,7 +33,7 @@
 
 ## 💻 Coding Projects
 
-> **[Work in Progress]**
+> [🗝️ Caesar Cipher](https://github.com/ShadiSec/Mini-Projects/blob/main/caesar-cipher.py)
 
 ---
 
