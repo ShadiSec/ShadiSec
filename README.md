@@ -40,7 +40,7 @@
 
 ## 💻 Coding Projects
 
-> [📦 Mini-Projects](https://github.com/ShadiSec/Mini-Projects/tree/main) - A collection of small scripts I'm building as I continue learning and experimenting.
+> [📦 Mini-Projects](https://github.com/ShadiSec/Mini-Projects/blob/main/README.md) - A collection of small scripts I'm building as I continue learning and experimenting.
 
 ---
 
