@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-black?logo=amazonwebservices&logoSize=auto)
 ![Splunk](https://img.shields.io/badge/-orange?logo=splunk&logoSize=auto)
+![MySQL](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white&logoSize=auto)
 ![WireGuard](https://img.shields.io/badge/WireGuard-maroon?style=flat&logo=wireguard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-green?style=flat&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
