@@ -28,7 +28,9 @@
 
 ## 🌐 Networking Projects
 
-> **[Work in Progress]**
+- [🗂️ Raspberry-Pi NAS] - Write-up coming soon
+- [🛑 DNS Sinkhole] - Write-up coming soon
+- [☁️ AWS Virtual Private Cloud] - Write-up coming soon
 
 ---
 
