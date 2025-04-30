@@ -55,6 +55,13 @@
 - [MTA: Security Fundamentals](https://www.credly.com/badges/bcc1ca91-fa06-4de7-bea5-27cf0ab72af1/public_url)
 - [MTA: Networking Fundamentals](https://www.credly.com/badges/f6222a0b-251e-4e27-8930-add86f926848/public_url)
 - [MTA: Windows Server Administration Fundamentals](https://www.credly.com/badges/d9bdc644-64f4-485c-aa9b-659480c79660/public_url)
+- [MTA: Windows Operating System Fundamentals](https://www.credly.com/badges/910736cf-d9b9-439a-bd26-5fb4051f6955)
+- [MTA: HTML5 Application Development Fundamentals](https://www.credly.com/badges/6cf4a9bc-8d54-4021-9d88-0be8ceba0951)
+- [MTA: Introduction to Programming Using HTML and CSS](https://www.credly.com/badges/88327528-d022-4b21-9bf1-53038e0f88a9)
+- [CIW Web Security Associate](https://www.credential.net/56082f5c-0939-4db4-b582-90651325390f#acc.STRCieuF)
+- [CIW Network Technology Associate](https://www.credential.net/5a11e9da-ada1-4c55-a79b-1f19509ac9dd#acc.WayCM95F)
+- [CIW Site Development Associate](https://www.credential.net/321f7d79-8eae-4e8e-bb93-2e8a4f33c99d#acc.zDuUtJ7f)
+- [CIW Internet Business Associate](https://www.credential.net/988b80ee-d07a-4b2f-9da0-e396777f8633#acc.2yPkoHVL)
 
 ---
 
