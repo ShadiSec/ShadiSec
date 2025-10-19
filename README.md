@@ -42,6 +42,13 @@
 
 ---
 
+## 👨‍💻 AI Projects
+
+- [📧 Email Classification Agent] - Write-up coming soon
+- [📰 Newsletter Agent] - Write-up coming soon
+
+---
+
 ## 💻 Coding Projects
 
 > [📦 Mini-Projects](https://github.com/ShadiSec/Mini-Projects/blob/main/README.md) - A collection of small scripts I'm building as I continue learning and experimenting.
