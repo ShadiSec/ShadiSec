@@ -44,7 +44,7 @@
 
 ## 👨‍💻 AI Projects
 
-- [📧 Email Classification Agent] - Write-up coming soon
+- [📧 Email Classification Agent](https://github.com/ShadiSec/Job-Application-Alert/blob/main/README.md)
 - [📰 Newsletter Agent] - Write-up coming soon
 
 ---
