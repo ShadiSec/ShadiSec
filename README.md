@@ -37,7 +37,7 @@
 
 ---
 
-## 👨‍💻 Cybersecurity Projects
+## 🔐 Cybersecurity Projects
 
 - [🛡️ Pi-NIDS (Network Intrusion Detection System)](https://github.com/ShadiSec/PiNIDS/blob/main/README.md)
 
