@@ -51,7 +51,7 @@
 ---
 
 ## 💻 Coding Projects
-> [📦 Mini-Projects](https://github.com/ShadiSec/Coding-Projects/blob/main/README.md) - A collection of coding projects I'm building as I continue learning and experimenting.
+> [📦 Coding Projects](https://github.com/ShadiSec/Coding-Projects/blob/main/README.md) - A collection of coding projects I'm building as I continue learning and experimenting.
 
 ---
 
