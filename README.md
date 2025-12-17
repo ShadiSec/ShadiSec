@@ -31,9 +31,9 @@
 ## 🌐 Networking Projects
 
 - [🚦 Cloudflare Tunnel](https://github.com/ShadiSec/Cloudflare-Tunnel/blob/main/README.md)
+- [☁️ AWS Virtual Private Cloud (VPC)](https://github.com/ShadiSec/AWS-VPC/blob/main/README.md)
 - [🗂️ Raspberry-Pi NAS] - Write-up coming soon
 - [🛑 DNS Sinkhole] - Write-up coming soon
-- [☁️ AWS Virtual Private Cloud] - Write-up coming soon
 
 ---
 
