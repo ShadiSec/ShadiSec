@@ -51,7 +51,7 @@
 ---
 
 ## 💻 Coding Projects
-
+> [🌭 AWS Rekognition Hotdog Detector] - Write-Up coming soon
 > [📦 Mini-Projects](https://github.com/ShadiSec/Mini-Projects/blob/main/README.md) - A collection of small scripts I'm building as I continue learning and experimenting.
 
 ---
