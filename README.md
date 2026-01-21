@@ -30,14 +30,15 @@
 
 ## 🌐 Projects
 - [📦 Coding Projects](https://github.com/ShadiSec/Coding-Projects/blob/main/README.md) - A collection of coding projects I'm building as I continue learning and experimenting.
-- [🌐 Cloudflare Tunnel](https://github.com/ShadiSec/Cloudflare-Tunnel/blob/main/README.md)
-- [🌐 Raspberry-Pi NAS] - Write-up coming soon
-- [🌐 DNS Sinkhole] - Write-up coming soon
+- [☁️ Azure Policy Lab](https://github.com/ShadiSec/Azure-Policy-Lab/blob/main/README.md)
+- [☁️ Manage Azure Subscriptions and RBAC](https://github.com/ShadiSec/Manage-Azure-Subscriptions-and-RBAC/blob/main/README.md)
 - [☁️ AWS Virtual Private Cloud (VPC)](https://github.com/ShadiSec/AWS-VPC/blob/main/README.md)
 - [🛡️ Pi-NIDS (Network Intrusion Detection System)](https://github.com/ShadiSec/PiNIDS/blob/main/README.md)
-- [🤖 Email Classification Agent](https://github.com/ShadiSec/Job-Application-Alert/blob/main/README.md)
+- [🌐 Cloudflare Tunnel](https://github.com/ShadiSec/Cloudflare-Tunnel/blob/main/README.md)
 - [🤖 Newsletter Agent](https://github.com/ShadiSec/news-letter-curator/blob/main/README.md)
-- [☁️ Manage Azure Subscriptions and RBAC](https://github.com/ShadiSec/Manage-Azure-Subscriptions-and-RBAC/blob/main/README.md)
+- [🤖 Email Classification Agent](https://github.com/ShadiSec/Job-Application-Alert/blob/main/README.md)
+- [🌐 Raspberry-Pi NAS] - Write-up coming soon
+- [🌐 DNS Sinkhole] - Write-up coming soon
 
 ## 📜 Certifications
 
